@@ -1,0 +1,31 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Sat, 06 Jan 2024 06:03:32 at https://demo.zytheme.com/cryptech/home-ico.html#
+(httrack https://demo.zytheme.com/cryptech/home-ico.html# )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:06:18	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/index-2.html (from https://demo.zytheme.com/cryptech/home-ico.html)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/js/widgets.html (from https://demo.zytheme.com/cryptech/home-ico.html)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/fonts/Stroke-Gap-Icons.eot (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/fonts/Linearicons-Free.svg?w118d (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/owl.video.play.png (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/font/ytp-regular.eot (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/fonts/et-line.ttf (from https://demo.zytheme.com/cryptech/assets/css/external.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.eot (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.eot? (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.woff2 (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.woff (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.ttf (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/fonts/glyphicons-halflings-regular.svg (from https://demo.zytheme.com/cryptech/assets/css/bootstrap.min.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/css/polina.jpg (from https://demo.zytheme.com/cryptech/assets/css/style.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/images/app/holder.png (from https://demo.zytheme.com/cryptech/assets/css/style.css)
+06:08:44	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/images/background/patterns/wood-dark.jpg (from https://demo.zytheme.com/cryptech/assets/css/style.css)
+06:08:45	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/images/page-title/title-1.html (from https://demo.zytheme.com/cryptech/header-1.html)
+06:08:45	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/assets/images/page-title/title-8.html (from https://demo.zytheme.com/cryptech/header-2.html)
+06:08:48	Error: 	"Not Found" (404) at link https://demo.zytheme.com/cryptech/_http_/maps.gstatic.com/mapfiles/openhand_8_8.html (from https://demo.zytheme.com/cryptech/elements-contact-form.html)
+
+HTTrack Website Copier/3.49-4 mirror complete in 5 minutes 16 seconds : 296 links scanned, 275 files written (19747865 bytes overall) [16851642 bytes received at 53327 bytes/sec], 4207290 bytes transferred using HTTP compression in 92 files, ratio 28%, 13.4 requests per connection
+(20 errors, 0 warnings, 0 messages)
