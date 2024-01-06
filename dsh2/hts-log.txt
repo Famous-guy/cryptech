@@ -1,0 +1,24 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Sat, 06 Jan 2024 08:30:13 at https://bvite-html.pixelwibes.in/
+(httrack https://bvite-html.pixelwibes.in/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:37:10	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/invoices.html (from https://bvite-html.pixelwibes.in/account-settings.html)
+08:37:17	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/docs/5.1/forms/checks-radios/ (from https://bvite-html.pixelwibes.in/docs/buttons.html)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/node_modules/tui-code-snippet/dist/tui-code-snippet.min.js (from https://bvite-html.pixelwibes.in/docs/toast-calendar.html)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/node_modules/tui-time-picker/dist/tui-time-picker.js (from https://bvite-html.pixelwibes.in/docs/toast-calendar.html)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/node_modules/tui-date-picker/dist/tui-date-picker.js (from https://bvite-html.pixelwibes.in/docs/toast-calendar.html)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/assets/css/font/summernote.eot? (from https://bvite-html.pixelwibes.in/assets/css/summernote.min.css)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/assets/css/font/summernote.woff2 (from https://bvite-html.pixelwibes.in/assets/css/summernote.min.css)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/assets/css/font/summernote.woff (from https://bvite-html.pixelwibes.in/assets/css/summernote.min.css)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/assets/css/font/summernote.ttf (from https://bvite-html.pixelwibes.in/assets/css/summernote.min.css)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/resize/ (from https://bvite-html.pixelwibes.in/assets/bundles/toastui-calendar.bundle.js)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/move/ (from https://bvite-html.pixelwibes.in/assets/bundles/toastui-calendar.bundle.js)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/GET (from https://bvite-html.pixelwibes.in/assets/bundles/prism.bundle.js)
+08:37:20	Error: 	"Not Found" (404) at link https://bvite-html.pixelwibes.in/docs/Trident/ (from https://bvite-html.pixelwibes.in/assets/bundles/inputmask.bundle.js)
+
+HTTrack Website Copier/3.49-4 mirror complete in 7 minutes 7 seconds : 410 links scanned, 396 files written (20674983 bytes overall) [8586356 bytes received at 20108 bytes/sec], 15700775 bytes transferred using HTTP compression in 325 files, ratio 21%, 19.5 requests per connection
+(13 errors, 0 warnings, 0 messages)
